@@ -1,6 +1,6 @@
 # Dell-Vostro-3681-SFF
 
-[![macOS](https://img.shields.io/badge/macOS-Monterey_12.6.2-violet)](https://www.apple.com/ge/macos/monterey/)
+[![macOS](https://img.shields.io/badge/macOS-Monterey_12.6.2-purple)](https://www.apple.com/ge/macos/monterey/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.8-blue)](https://github.com/acidanthera/OpenCorePkg)
 
 Dell Vostro 3681 SFF using OpenCore Bootloader
